@@ -1,5 +1,5 @@
 <h1 align = "center">Hi 👋, I'm <a href="https://github.com/phuongth1910/phuongth1910.git">@phuongth1910</a></h1>
-<img align="right" width="auto" height="450" src="phuong.jpg">
+<img align="right" width="auto" height="450" src="">
 
 <h3 align="center">About me ... </h3>
 
