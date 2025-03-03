@@ -5,9 +5,6 @@
 
 - 👦 A student at the School of Electrical Engineering, Hanoi University of Science and Technology | **Electronic and Telecommunication**
 
-- :computer: **Comvis Laboratory**
-
-
 
 - 📫 How to reach me **tranhaphuong191002@gmail.com**
 
